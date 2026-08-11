@@ -1,12 +1,15 @@
 import React from 'react';
 // eslint-disable-next-line no-unused-vars
-import { Header } from './components/Header.js';
-import './App.js';
+import { Header } from './components/Header';
+import './App.css';
 
 function App() {
   return (
-    <div>
-    </div>
+    <>
+      <Header />
+      <div className="container">
+      </div>
+    </>
   );
 }
 
