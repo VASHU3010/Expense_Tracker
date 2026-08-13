@@ -37,8 +37,7 @@ This project focuses on practicing **React fundamentals, component-based archite
 * View total expenses
 * Responsive user interface
 
-<!----
-## 📂 Project Structure
+## Project Structure
 
 ```text
 expense-tracker-react/
@@ -63,7 +62,7 @@ expense-tracker-react/
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/VASHU3010/Expense_Tracker.git
 ```
 
 ### 2. Navigate to the Project
@@ -104,16 +103,13 @@ This project demonstrates several important React concepts:
 * Forms and controlled inputs
 * Dynamic UI updates
 
-<!---
-## 📸 Preview
-
-*Add screenshots of your Expense Tracker here.*
+## Preview
 
 ```markdown
-![Expense Tracker Preview](./screenshots/expense-tracker.png)
+![Expense Tracker Preview](./screenshots/expense-tracke)
 ```
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add Local Storage support
 * Add expense editing functionality
@@ -123,8 +119,7 @@ This project demonstrates several important React concepts:
 * Add authentication
 * Add backend and database integration
 
---->
-## 👨‍💻 Author
+## Author
 
 **Vashu Tomar**
 
