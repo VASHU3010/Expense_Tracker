@@ -105,9 +105,10 @@ This project demonstrates several important React concepts:
 
 ## Preview
 
-```markdown
-![Expense Tracker Preview](./screenshots/expense-tracke)
-```
+| Expense Tracker UI Preview                                   | Expense Tracker Functionality Preview                                  |
+| -----------------------------------------------------------  | ---------------------------------------------------------------------- |
+| ![Expense Tracker UI Preview](Screenshots/UI_Of_Tracker.png) | ![Expense Tracker Functionality Preview](Screenshots/Functionality.png)|
+
 
 ## Future Improvements
 
